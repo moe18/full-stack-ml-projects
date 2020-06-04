@@ -1,0 +1,6 @@
+echo "name of project?"
+
+read varname
+
+
+cp -R model_skeleton /Users/mordechaichabot/Projects/full-stack-projects/$varname
